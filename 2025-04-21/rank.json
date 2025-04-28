@@ -1093,7 +1093,7 @@
 	},
 	{
 		"rank": 185,
-		"server": 0,
+		"server": 1281,
 		"stage": 73,
 		"damage": "2.25aa"
 	},
@@ -1177,7 +1177,7 @@
 	},
 	{
 		"rank": 199,
-		"server": 0,
+		"server": 73,
 		"stage": 73,
 		"damage": "463T"
 	},
@@ -2497,7 +2497,7 @@
 	},
 	{
 		"rank": 419,
-		"server": 0,
+		"server": 82,
 		"stage": 69,
 		"damage": "3.45aa"
 	},
@@ -2881,7 +2881,7 @@
 	},
 	{
 		"rank": 483,
-		"server": 0,
+		"server": 73,
 		"stage": 68,
 		"damage": null
 	},

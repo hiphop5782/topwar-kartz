@@ -463,9 +463,9 @@
     },
     {
         "rank": 78,
-        "server": 1,
-        "stage": 30,
-        "damage": "21016"
+        "server": 188,
+        "stage": 79,
+        "damage": null
     },
     {
         "rank": 79,
@@ -937,9 +937,9 @@
     },
     {
         "rank": 157,
-        "server": 30,
-        "stage": 90,
-        "damage": "2101"
+        "server": 607,
+        "stage": 76,
+        "damage": null
     },
     {
         "rank": 158,
@@ -1147,9 +1147,9 @@
     },
     {
         "rank": 192,
-        "server": 19,
-        "stage": 19,
-        "damage": null
+        "server": 73,
+        "stage": 75,
+        "damage": "14.1aa"
     },
     {
         "rank": 193,
@@ -1831,9 +1831,9 @@
     },
     {
         "rank": 306,
-        "server": 9,
-        "stage": 99,
-        "damage": "3"
+        "server": 3407,
+        "stage": 73,
+        "damage": null
     },
     {
         "rank": 307,
@@ -2155,9 +2155,9 @@
     },
     {
         "rank": 360,
-        "server": 2,
-        "stage": 2570,
-        "damage": "201"
+        "server": 607,
+        "stage": 72,
+        "damage": null
     },
     {
         "rank": 361,
@@ -2173,9 +2173,9 @@
     },
     {
         "rank": 363,
-        "server": 0,
-        "stage": 50,
-        "damage": "2101"
+        "server": 2091,
+        "stage": 72,
+        "damage": null
     },
     {
         "rank": 364,
@@ -2203,9 +2203,9 @@
     },
     {
         "rank": 368,
-        "server": 19,
-        "stage": 1,
-        "damage": null
+        "server": 73,
+        "stage": 72,
+        "damage": "11.6aa"
     },
     {
         "rank": 369,
@@ -2509,9 +2509,9 @@
     },
     {
         "rank": 419,
-        "server": 76,
-        "stage": 39,
-        "damage": "2101"
+        "server": 3384,
+        "stage": 71,
+        "damage": null
     },
     {
         "rank": 420,
